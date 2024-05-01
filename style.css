@@ -144,7 +144,7 @@ footer img, footer .title {
     margin-bottom: 24px;    
 }
 
-footer nav a {
+footer .links a {
     color: #263138;
     display: block;
     margin-bottom: 16px;
