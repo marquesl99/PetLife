@@ -1,4 +1,5 @@
 🐾 PetLife - Sua Clínica Veterinária Online 🐶�
+
 Este projeto é uma página web para uma clínica veterinária fictícia chamada "PetLife", desenvolvida com HTML, CSS e JavaScript. A página serve como um cartão de visitas online, apresentando os serviços e informações da clínica.
 
 <strong>Apresentação da Clínica:</strong> Descubra mais sobre a PetLife, sua missão e os serviços oferecidos.<br>
