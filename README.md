@@ -3,7 +3,7 @@ Este projeto é uma página web para uma clínica veterinária fictícia chamada
 
 <strong>Apresentação da Clínica:</strong> Descubra mais sobre a PetLife, sua missão e os serviços oferecidos.<br>
 <strong>Serviços:</strong> Explore os diferentes serviços veterinários disponíveis, como consultas, vacinação, cirurgias e exames.<br>
-<strong>Informações</strong> de Contato: Encontre facilmente o endereço, telefone e email da clínica para agendamento de consultas.
+<strong>Informações de Contato:</strong> Encontre facilmente o endereço, telefone e email da clínica para agendamento de consultas.
 
 <strong>Tecnologias Utilizadas:</strong><br>
 HTML: Estrutura da página web.<br>
